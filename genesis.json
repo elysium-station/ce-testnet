@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-05-20T14:38:17.630466974Z",
+  "genesis_time": "2023-05-20T21:56:27.115608406Z",
   "chain_id": "clockend_4200-101",
   "initial_height": "1",
   "consensus_params": {
@@ -34,7 +34,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1p2lv59cnplt5489f7zx8ljkzd0qey547k55cf0",
+            "address": "black1mlsrxjp7ckr545um662ys67qdghnykvw2r7avw",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -44,7 +44,7 @@
 	{
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1r4cs4clxdqeefjzn7afvahkmtrx6j30gnu9fj6",
+            "address": "black123rmvrcj7prljlthad3m3a9uhguwls35qhncsd",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -54,7 +54,7 @@
 	{
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black135t88qaqd3ykv8khknw88seu0ed7983d3dq7cd",
+            "address": "black1tg670wn9zap264tm3cq8vrd2kph03nnvxvll5r",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -70,29 +70,29 @@
       },
       "balances": [
         {
-          "address": "black1p2lv59cnplt5489f7zx8ljkzd0qey547k55cf0",
+          "address": "black1mlsrxjp7ckr545um662ys67qdghnykvw2r7avw",
           "coins": [
             {
               "denom": "afury",
-              "amount": "60000000000000000000000000"
+              "amount": "500000000000000000000000"
             }
           ]
         },
 	{
-          "address": "black1r4cs4clxdqeefjzn7afvahkmtrx6j30gnu9fj6",
+          "address": "black123rmvrcj7prljlthad3m3a9uhguwls35qhncsd",
           "coins": [
             {
               "denom": "afury",
-              "amount": "60000000000000000000000000"
+              "amount": "200000000000000000000000"
             }
           ]
         },
 	{
-          "address": "black135t88qaqd3ykv8khknw88seu0ed7983d3dq7cd",
+          "address": "black1tg670wn9zap264tm3cq8vrd2kph03nnvxvll5r",
           "coins": [
             {
               "denom": "afury",
-              "amount": "60000000000000000000000000"
+              "amount": "200000000000000000000000"
             }
           ]
         }
@@ -100,7 +100,7 @@
       "supply": [
         {
           "denom": "afury",
-          "amount": "180000000000000000000000000"
+          "amount": "1000000000000000000000000"
         }
       ],
       "denom_metadata": []
@@ -116,7 +116,7 @@
     "crisis": {
       "constant_fee": {
         "denom": "afury",
-        "amount": "1000000"
+        "amount": "1000"
       }
     },
     "distribution": {
