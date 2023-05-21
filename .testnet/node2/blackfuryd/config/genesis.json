@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-05-21T10:52:56.797407Z",
+  "genesis_time": "2023-05-21T10:53:28.006681Z",
   "chain_id": "clockend_4200-101",
   "initial_height": "1",
   "consensus_params": {
@@ -34,7 +34,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1dzxwfgtu4mjaykd86yh3xgqq8929plksc7fnkp",
+            "address": "black168qps55rh6p6aw7hqxu8nj6pvrcnf6ssm74xg0",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -44,7 +44,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1lkr7xp5q2ed9fvqdfkxfucy3kwdwaj3usnpc0c",
+            "address": "black17aqpqmfegymx48y7fy9ugxhznseuss3dfrnakv",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -54,7 +54,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "black1dn334rtk4emwcxjspznsy48gara8yxuxw8x7l5",
+            "address": "black1cxqa84r74cpjfdf75fkh6fctkpjgj7d8axhyv5",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -70,7 +70,7 @@
       },
       "balances": [
         {
-          "address": "black1dzxwfgtu4mjaykd86yh3xgqq8929plksc7fnkp",
+          "address": "black168qps55rh6p6aw7hqxu8nj6pvrcnf6ssm74xg0",
           "coins": [
             {
               "denom": "afury",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "address": "black1lkr7xp5q2ed9fvqdfkxfucy3kwdwaj3usnpc0c",
+          "address": "black17aqpqmfegymx48y7fy9ugxhznseuss3dfrnakv",
           "coins": [
             {
               "denom": "afury",
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "address": "black1dn334rtk4emwcxjspznsy48gara8yxuxw8x7l5",
+          "address": "black1cxqa84r74cpjfdf75fkh6fctkpjgj7d8axhyv5",
           "coins": [
             {
               "denom": "afury",
@@ -203,11 +203,11 @@
                   "max_change_rate": "0.050000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "black1dzxwfgtu4mjaykd86yh3xgqq8929plksc7fnkp",
-                "validator_address": "blackvaloper1dzxwfgtu4mjaykd86yh3xgqq8929plksmkps9y",
+                "delegator_address": "black168qps55rh6p6aw7hqxu8nj6pvrcnf6ssm74xg0",
+                "validator_address": "blackvaloper168qps55rh6p6aw7hqxu8nj6pvrcnf6sscka9m2",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "oiQHGlFghwLJXRZrq7yNsYJTPA5956+v94zdGEopLUo="
+                  "key": "bS8ZUxgKU7NVTEFPgtY+/9GwYwhhz1w2hvIfdczolzQ="
                 },
                 "value": {
                   "denom": "afury",
@@ -215,7 +215,7 @@
                 }
               }
             ],
-            "memo": "7c44042f75ad41a762b23ceac900d3acd9d87bfd@10.128.0.50:26656",
+            "memo": "d0cc5c496c9d0a4e53ad84f04ff497dacbd98697@10.128.0.50:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -225,7 +225,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A8/K5x06P0a1GVbnLPmdJN54v3MPTz0Kv3ClGHMs35hE"
+                  "key": "A7smUm42Ye2YWD5DYN72gx9gPe+IBJWB6zCq+lWY4CxV"
                 },
                 "mode_info": {
                   "single": {
@@ -243,7 +243,7 @@
             }
           },
           "signatures": [
-            "4SFZriyY2zxBFoTiFfx487in3Ys5e/1xxDRcqbNW+J4MwGNk8RY5zYRNFbwbo1ER//AnqFDECQfEo1BRVLm0MQA="
+            "vlCeIdnMNWoBO21yUVRDPoSXHQQaErx4TQsj3x7S1blbFRw32j1qkgGSDUL8a+Nnlcrn+cnd9mzji5M477+qBQE="
           ]
         },
         {
@@ -264,11 +264,11 @@
                   "max_change_rate": "0.050000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "black1lkr7xp5q2ed9fvqdfkxfucy3kwdwaj3usnpc0c",
-                "validator_address": "blackvaloper1lkr7xp5q2ed9fvqdfkxfucy3kwdwaj3unmfmua",
+                "delegator_address": "black17aqpqmfegymx48y7fy9ugxhznseuss3dfrnakv",
+                "validator_address": "blackvaloper17aqpqmfegymx48y7fy9ugxhznseuss3d2tm79f",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "g2j3kw/0NKfrZG0YgTomYK/POzS+g82MrV/3GFLDE3o="
+                  "key": "lRSDG+HsaQarcV6mPKTEv7/DE92/wIVQ8xM6oT93wlw="
                 },
                 "value": {
                   "denom": "afury",
@@ -276,7 +276,7 @@
                 }
               }
             ],
-            "memo": "a2bda9a639be937022e906f8c3c069401a0f8424@10.128.0.51:26656",
+            "memo": "dd970a46afe91f0e33129a0b4af7d5ab9cec990a@10.128.0.51:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -286,7 +286,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A0kPXeH2qCgIIHYRfZGHKHOFEoroqFC4k+dinm9Uxj/w"
+                  "key": "AhGKFE2KK1xOXVhsFW/yKTFY8zCNvzYr0pC1MUI51Nts"
                 },
                 "mode_info": {
                   "single": {
@@ -304,7 +304,7 @@
             }
           },
           "signatures": [
-            "4HkYzbyQHoJijNtaT1slIksUhwNJxtEBZl+6OzGcXs87qhuzAKJc2bm8bPIAcxSfmlNjxBDHu8wrfV248upKaQE="
+            "3IP64oeUJdf7LBOmQ8tFkTOGVRsHcTXML9VmN2M3AR591sJ+RZTP5TIgPAjrgYZpzJVDFbMikbhTqrMwubI3nQA="
           ]
         },
         {
@@ -325,11 +325,11 @@
                   "max_change_rate": "0.050000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "black1dn334rtk4emwcxjspznsy48gara8yxuxw8x7l5",
-                "validator_address": "blackvaloper1dn334rtk4emwcxjspznsy48gara8yxuxd0wav3",
+                "delegator_address": "black1cxqa84r74cpjfdf75fkh6fctkpjgj7d8axhyv5",
+                "validator_address": "blackvaloper1cxqa84r74cpjfdf75fkh6fctkpjgj7d87wl8l3",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "lA4GMF0pK2h/sk94/uEy28NMH5vJiQ28iZwh7iiPIQs="
+                  "key": "8xmdjA425GrL8jIYQ0k5axbSag2HWaKomixIrFCT9sc="
                 },
                 "value": {
                   "denom": "afury",
@@ -337,7 +337,7 @@
                 }
               }
             ],
-            "memo": "06bb9b37b4088bef2b247e5ecf1a4925d76ae91c@10.128.0.52:26656",
+            "memo": "f1839e4b17afd7ed9a3220893ded860aec04cba5@10.128.0.52:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -347,7 +347,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "AxLFc1y0k3HveM8kntCzZra15pYox50xpW6yRXdDaSXI"
+                  "key": "AwUhteTGiFtzQ/cbsq1hCecIy/pPuan6bTK9nr5sRlpz"
                 },
                 "mode_info": {
                   "single": {
@@ -365,7 +365,7 @@
             }
           },
           "signatures": [
-            "icX0MydjGJbEFokbS+TAWb9iLdx6b3klfXr13okShLVmFjCELdL+gO0epgcOAXp9te6INA4Lrg+QeC00RvDoKwE="
+            "wJu2YNGLqUj7cP1YNWwv2DB23WedvLXKaDA39xUWQ9skbVNNi+xncR86EPk4sUJp1LtwoLqKEbbEAnX9y/PLyQE="
           ]
         }
       ]
@@ -514,8 +514,8 @@
         }
       },
       "allocation_addresses": {
-        "team_vesting_addr": "black1dzxwfgtu4mjaykd86yh3xgqq8929plksc7fnkp",
-        "strategic_reserve_custodian_addr": "black1lkr7xp5q2ed9fvqdfkxfucy3kwdwaj3usnpc0c"
+        "team_vesting_addr": "black168qps55rh6p6aw7hqxu8nj6pvrcnf6ssm74xg0",
+        "strategic_reserve_custodian_addr": "black17aqpqmfegymx48y7fy9ugxhznseuss3dfrnakv"
       }
     },
     "voter": {
